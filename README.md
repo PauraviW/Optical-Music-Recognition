@@ -1,4 +1,4 @@
-# a1
+# Optical Musical Detection from Musical Sheets 
 **To run:**
 `python3 omr.py <image>`
 
