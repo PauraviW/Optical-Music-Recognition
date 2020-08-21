@@ -1,0 +1,90 @@
+73 	 142 	 10 	 10 	 filled_note 	 - 	 100
+84 	 1080 	 10 	 10 	 filled_note 	 - 	 100
+73 	 578 	 10 	 10 	 filled_note 	 - 	 100
+56 	 978 	 10 	 10 	 filled_note 	 - 	 80
+56 	 543 	 10 	 10 	 filled_note 	 - 	 80
+44 	 177 	 10 	 10 	 filled_note 	 - 	 80
+56 	 107 	 10 	 10 	 filled_note 	 - 	 80
+44 	 613 	 10 	 10 	 filled_note 	 - 	 80
+44 	 927 	 10 	 10 	 filled_note 	 - 	 80
+44 	 648 	 10 	 10 	 filled_note 	 - 	 80
+188 	 1080 	 10 	 10 	 filled_note 	 - 	 80
+44 	 212 	 10 	 10 	 filled_note 	 - 	 80
+33 	 317 	 10 	 10 	 filled_note 	 - 	 60
+33 	 352 	 10 	 10 	 filled_note 	 - 	 60
+33 	 788 	 10 	 10 	 filled_note 	 - 	 60
+44 	 492 	 10 	 10 	 filled_note 	 - 	 60
+44 	 422 	 10 	 10 	 filled_note 	 - 	 60
+131 	 892 	 10 	 10 	 filled_note 	 - 	 60
+44 	 858 	 10 	 10 	 filled_note 	 - 	 60
+165 	 892 	 10 	 10 	 filled_note 	 - 	 60
+33 	 823 	 10 	 10 	 filled_note 	 - 	 60
+33 	 753 	 10 	 10 	 filled_note 	 - 	 60
+131 	 457 	 10 	 10 	 filled_note 	 - 	 60
+56 	 718 	 10 	 10 	 filled_note 	 - 	 60
+44 	 247 	 10 	 10 	 filled_note 	 - 	 60
+56 	 282 	 10 	 10 	 filled_note 	 - 	 60
+44 	 683 	 10 	 10 	 filled_note 	 - 	 60
+33 	 387 	 10 	 10 	 filled_note 	 - 	 60
+72 	 578 	 10 	 10 	 filled_note 	 - 	 20
+72 	 142 	 10 	 10 	 filled_note 	 - 	 20
+136 	 978 	 10 	 10 	 filled_note 	 - 	 20
+136 	 543 	 10 	 10 	 filled_note 	 - 	 20
+165 	 457 	 10 	 10 	 filled_note 	 - 	 20
+136 	 107 	 10 	 10 	 filled_note 	 - 	 20
+43 	 178 	 10 	 10 	 filled_note 	 B 	 0
+45 	 926 	 10 	 10 	 filled_note 	 - 	 0
+43 	 927 	 10 	 10 	 filled_note 	 B 	 0
+135 	 107 	 10 	 10 	 filled_note 	 - 	 0
+43 	 213 	 10 	 10 	 filled_note 	 B 	 0
+45 	 246 	 10 	 10 	 filled_note 	 - 	 0
+55 	 979 	 10 	 10 	 filled_note 	 - 	 0
+43 	 613 	 10 	 10 	 filled_note 	 B 	 0
+72 	 143 	 10 	 10 	 filled_note 	 - 	 0
+43 	 177 	 10 	 10 	 filled_note 	 B 	 0
+43 	 212 	 10 	 10 	 filled_note 	 B 	 0
+45 	 421 	 10 	 10 	 filled_note 	 - 	 0
+55 	 978 	 10 	 10 	 filled_note 	 - 	 0
+56 	 1080 	 10 	 10 	 filled_note 	 - 	 0
+165 	 891 	 10 	 10 	 filled_note 	 - 	 0
+43 	 648 	 10 	 10 	 filled_note 	 B 	 0
+72 	 579 	 10 	 10 	 filled_note 	 - 	 0
+55 	 108 	 10 	 10 	 filled_note 	 - 	 0
+135 	 543 	 10 	 10 	 filled_note 	 - 	 0
+45 	 682 	 10 	 10 	 filled_note 	 - 	 0
+45 	 857 	 10 	 10 	 filled_note 	 - 	 0
+83 	 1080 	 10 	 10 	 filled_note 	 - 	 0
+43 	 614 	 10 	 10 	 filled_note 	 B 	 0
+55 	 544 	 10 	 10 	 filled_note 	 - 	 0
+43 	 649 	 10 	 10 	 filled_note 	 B 	 0
+187 	 1081 	 10 	 10 	 filled_note 	 - 	 0
+55 	 107 	 10 	 10 	 filled_note 	 - 	 0
+135 	 978 	 10 	 10 	 filled_note 	 - 	 0
+45 	 491 	 10 	 10 	 filled_note 	 - 	 0
+43 	 928 	 10 	 10 	 filled_note 	 B 	 0
+55 	 543 	 10 	 10 	 filled_note 	 - 	 0
+187 	 1080 	 10 	 10 	 filled_note 	 - 	 0
+41 	 1157 	 10 	 10 	 eight_rest 	 _
+41 	 1158 	 10 	 10 	 eight_rest 	 _
+41 	 1159 	 10 	 10 	 eight_rest 	 _
+162 	 243 	 10 	 10 	 eight_rest 	 _
+162 	 244 	 10 	 10 	 eight_rest 	 _
+162 	 245 	 10 	 10 	 eight_rest 	 _
+162 	 679 	 10 	 10 	 eight_rest 	 _
+162 	 680 	 10 	 10 	 eight_rest 	 _
+162 	 681 	 10 	 10 	 eight_rest 	 _
+162 	 1157 	 10 	 10 	 eight_rest 	 _
+162 	 1158 	 10 	 10 	 eight_rest 	 _
+162 	 1159 	 10 	 10 	 eight_rest 	 _
+42 	 1026 	 10 	 10 	 quarter_rest 	 _
+42 	 1027 	 10 	 10 	 quarter_rest 	 _
+42 	 1028 	 10 	 10 	 quarter_rest 	 _
+163 	 384 	 10 	 10 	 quarter_rest 	 _
+163 	 385 	 10 	 10 	 quarter_rest 	 _
+163 	 386 	 10 	 10 	 quarter_rest 	 _
+163 	 820 	 10 	 10 	 quarter_rest 	 _
+163 	 821 	 10 	 10 	 quarter_rest 	 _
+163 	 822 	 10 	 10 	 quarter_rest 	 _
+163 	 1026 	 10 	 10 	 quarter_rest 	 _
+163 	 1027 	 10 	 10 	 quarter_rest 	 _
+163 	 1028 	 10 	 10 	 quarter_rest 	 _
